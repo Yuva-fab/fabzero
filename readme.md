@@ -9,4 +9,5 @@ Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
 FORMLABS 3D printing device.
 Shopboat wood cutter which runs at 14,000 rpm
 WEN and DeWALT equipment.
-On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.
+On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.<br>
+At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
