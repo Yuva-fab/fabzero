@@ -10,4 +10,7 @@ FORMLABS 3D printing device.
 Shopboat wood cutter which runs at 14,000 rpm
 WEN and DeWALT equipment.
 On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.<br>
+Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
+Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
+Link of Git Windows to download https://git-scm.com/download/win <br>
 At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
