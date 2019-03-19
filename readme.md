@@ -5,7 +5,9 @@ I met all other colleagues attending for the training.<br>
 My traineers are Mr.Franchi and Mr.Sibu. Both are explaining well.<br>
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.<br>
 Mr.Franchie has brifed about the equipmentnts <br>
-Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
+Roland 
+Roland ![](rolandcuttingplotter.jpg)
+EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
 FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br>
