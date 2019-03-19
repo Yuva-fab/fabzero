@@ -10,3 +10,4 @@ FORMLABS 3D printing device.
 Shopboat wood cutter which runs at 14,000 rpm
 WEN and DeWALT equipment.
 test
+On 19th March 2019 (2day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.
