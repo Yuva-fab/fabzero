@@ -27,17 +27,18 @@ On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), 
 Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
 Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
 Link of Git Windows to download https://git-scm.com/download/win <br>
-    --Open "New Window" in visual Studio Code
-    --Copy the clone Address from Github. 
-    --This is the command to see the clone address at Github "Control + Shift + P"
-    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone".    
+    --Open "New Window" in visual Studio Code <br>
+    --Copy the clone Address from Github.<br>
+    --This is the command to see the clone address at Github "Control + Shift + P" <br>
+    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone".<br>   
 #H1
 Pocedure for cutting the vnyl roler on Roland Cutter <br>
 
     --Place the vnyl roler on steel rolling roads properly <br>
     --Align the vnyl roler paper parallel to the vertical lines of roland <br>
     --Fix the small rolers at white marks. So that grip will be there to roll the vnyl roller. <br>
-    --Also fix small roller 2mm inside the vnyl paper and other side edge of vnyl paper. So that paper  --can't be wasted<br>
+    --Also fix small roller 2mm inside the vnyl paper and other side edge of vnyl paper.<br> 
+    --So that paper can't be wasted<br>
 #H3
 Following are the fixung the vnyl roler in the Roland machine <br>
 ![](img/roland_vnyl_cutter-1.jpg)<br>
