@@ -28,10 +28,10 @@ Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/window
 Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
 Link of Git Windows to download https://git-scm.com/download/win <br>
 
-    --Open "New Window" in visual Studio Code <br>
-    --Copy the clone Address from Github.<br>
-    --This is the command to see the clone address at Github "Control + Shift + P" <br>
-    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone".<br>   
+    --Open "New Window" in visual Studio Code
+    --Copy the clone Address from Github
+    --This is the command to see the clone address at Github "Control + Shift + P"
+    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"   
 #H1
 Pocedure for cutting the vnyl roler on Roland Cutter <br>
 
