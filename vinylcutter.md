@@ -1,4 +1,4 @@
-Roland Cutting Plotter <br>
+# Roland Cutting Plotter <br>
 ![Roland Cutting Plotter Image](img/rolandcuttingplotter.jpg)<br>
 # Procedure for cutting the vnyl roler on Roland Cutter <br>
 
@@ -11,3 +11,7 @@ Roland Cutting Plotter <br>
 # Following are the fixung the vnyl roler in the Roland machine <br>
 ![](img/roland_vnyl_cutter-1.jpg)<br>
 ![](img/roland_vnyl_cutter-2.jpg)<br>
+# Name Sticker Printing
+![](img/Sticker print selection in comm format1.jpg)<br>
+![](img/Sticker print selection in comm format2.jpg)<br>
+![](img/Roland vinyl name sticker.jpg)<br>
