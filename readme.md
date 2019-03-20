@@ -4,18 +4,14 @@ I got oprtunity getting training on FAB LAB Pre-Academy Programme at STPI-Bhuban
 
 On 18th March 2019. This Pre-Academy training program is lanuched by Shri.Omkar Rai, DG, STPI.<br>
 
-I met all other colleagues attending for the training.<br>
+My mentors are Mr.Francisco and Mr.Shibu.<br>
 
-My traineers are Mr.Franchi and Mr.Sibu. Both are explaining well.<br>
+Mr.Franchie has brifed about the equipmentnts.<br>
 
-In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.<br>
+# Roland Vinyl Cutter <br>
+![Roland vinyl Image](vinylcutter.md)<br>
 
-Mr.Franchie has brifed about the equipmentnts <br>
-
-Roland Cutting Plotter <br>
-![Roland Cutting Plotter Image](vinylcutter.md)<br>
-
-3D WOX Printer <br>
+# 3D WOX Printer <br>
 ![3D WOX Printer](img/Sindoh_3DWOX_Printer.jpg)<br>
 
 EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
