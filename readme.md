@@ -9,10 +9,10 @@ My mentors are Mr.Francisco and Mr.Shibu.<br>
 Mr.Franchie has brifed about the equipmentnts.<br>
 
 # Roland Vinyl Cutter <br>
-![Roland vinyl Image](vinylcutter.md)<br>
+![About Roland vinyl Cutter](vinylcutter.md)<br>
 
 # 3D WOX Printer <br>
-![3D WOX Printer](img/Sindoh_3DWOX_Printer.jpg)<br>
+![About 3D WOX Printer](img/Sindoh_3DWOX_Printer.jpg)<br>
 
 EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
 
