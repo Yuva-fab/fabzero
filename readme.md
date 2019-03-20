@@ -9,7 +9,7 @@ My mentors are Mr.Francisco and Mr.Shibu.<br>
 Mr.Franchie has brifed about the equipmentnts.<br>
 
 # Roland Vinyl Cutter <br>
-![About Roland vinyl Cutter](vinylcutter.md)<br>
+![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
 
 # 3D WOX Printer <br>
 ![About 3D WOX Printer](img/Sindoh_3DWOX_Printer.jpg)<br>
