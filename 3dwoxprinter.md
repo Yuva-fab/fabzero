@@ -19,6 +19,7 @@ Object printing time is depend on size of the object going to print, if size is 
 
 ![](img/3D_Print_04.jpg)<br>
 
-![](img/3D_Print_Output_5.jp)<br>
+![](img/3D_Print_Output_5.jpg)<br>
 
 ![](img/3D_Print_Output_6.jpg)<br>
+
