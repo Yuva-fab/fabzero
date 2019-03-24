@@ -3,7 +3,7 @@
 3D printer which we have is a 0.4 mm dia. So Scale the object as per the requirement. If we scale below 0.4 mm dia the object don't print exactly. <br>
 Object printing time is depend on size of the object going to print, if size is big it will print hours together.<br>
 # Procedure for 3D print <br>
-    --Open the 3D_WOX printer software and load the object which was designed in a software OR downloaded from the net.<br>
+    --Open the 3D_WOX printer software and load the object which was designed in a software OR downloaded from the net.
     --Give the Print, it will calculate the printing duration and will display. 
     --Printer will display the object what is going to print on the screen.
     --Printer nozzle will be heated up to 200 degree C. Then printing will start.
