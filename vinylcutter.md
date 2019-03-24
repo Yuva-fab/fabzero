@@ -8,10 +8,10 @@
     --Also fix small roller 2mm inside the vnyl paper and other side edge of vnyl paper
     --So that paper can't be wasted.
     
-# Following are the fixung the vnyl roler in the Roland machine <br>
+# Following are the fixing the vnyl roler in the Roland machine <br>
 ![](img/roland_vnyl_cutter-1.jpg)<br>
 ![](img/roland_vnyl_cutter-2.jpg)<br>
 # Name Sticker Printing
-![](img/Sticker print selection in comm format1.jpg)<br>
-![](img/Sticker print selection in comm format2.jpg)<br>
-![](img/Roland vinyl name sticker.jpg)<br>
+![](img/Sticker_print_selection_in_comm_format1.jpg)<br>
+![](img/Sticker_print_selection_in_comm_format2.jpg)<br>
+![](img/Roland_vinyl_name_sticker.jpg)<br>
