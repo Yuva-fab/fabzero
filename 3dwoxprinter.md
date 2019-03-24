@@ -26,5 +26,5 @@ Object printing time is depend on size of the object going to print, if size is 
 # Following are the Specifications of 3D WOX Printer<br>
 ![](img/3DWOX1_Sindoh_Specs.jpg)<br>
 ## Click on below URL for complete details <br>
-(https://3dprinter.sindoh.com/product/3dwox1)<br>
+https://3dprinter.sindoh.com/product/3dwox1<br>
 
