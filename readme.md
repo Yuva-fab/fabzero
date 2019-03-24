@@ -12,8 +12,7 @@ Mr.Franchie has brifed about the equipmentnts.<br>
 ![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
 
 # 3D WOX Printer <br>
-![About 3D WOX Printer](img/Sindoh_3DWOX_Prin
-ter.jpg)<br>
+![About 3D WOX Printer (Click here)](3dwoxprinter.md)<br>
 
 EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
 
