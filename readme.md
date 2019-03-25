@@ -17,6 +17,8 @@ To document the work we have done, installed Visual Studio Codec(VSC). Following
     --This is the command to see the clone address at Github "Control + Shift + P"
     --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
 
+# Following are the hands on experience on equipment at FAB LAB <br>
+
 ## Roland Vinyl Cutter <br>
 ![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
 
