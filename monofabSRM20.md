@@ -31,7 +31,7 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 ![KiCAD PCB Design](img/inkscape_PCBplot-svg2png_trace-10.jpg)<br>
 ![KiCAD PCB Design](img/inkscape_PCBplot-svg2png_cut-11.jpg)<br>
 ![KiCAD PCB Design](img/fabmodules-png2rml_trace-12.jpg)<br>
-![KiCAD PCB Design](img/fabmodules-png2rml_cut-13jpg)<br>
+![KiCAD PCB Design](img/fabmodules-png2rml_cut-13.jpg)<br>
 
 ## Following is the PC board printed at FAB LAB. <br>
 
