@@ -21,16 +21,27 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 --Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
 ## Images of PC board design and Print <br>
 ![KiCAD Software](img/Kicad-schematiclayout-1.jpg)<br>
+
 ![KiCAD PCB Design](img/Add_Componets-2.jpg)<br>
+
 ![KiCAD PCB Design](img/Annotate-electricals-rules-check-3.jpg)<br>
+
 ![KiCAD PCB Design](img/Assign-PCB-footprints-to-schematic-symbols-4.jpg)<br>
+
 ![KiCAD PCB Design](img/PCBlayout-with-normal-connections-6.jpg)<br>
+
 ![KiCAD PCB Design](img/PCBlayout-with-copper-routing-7.jpg)<br>
+
 ![KiCAD PCB Design](img/PCBlayout-edgeCuts-8.jpg)<br>
+
 ![KiCAD PCB Design](img/PCBplot-in-svg-format-9.jpg)<br>
+
 ![KiCAD PCB Design](img/inkscape_PCBplot-svg2png_trace-10.jpg)<br>
+
 ![KiCAD PCB Design](img/inkscape_PCBplot-svg2png_cut-11.jpg)<br>
+
 ![KiCAD PCB Design](img/fabmodules-png2rml_trace-12.jpg)<br>
+
 ![KiCAD PCB Design](img/fabmodules-png2rml_cut-13.jpg)<br>
 
 ## Following is the PC board printed at FAB LAB. <br>
