@@ -14,8 +14,8 @@ Mr.Franchie has brifed about the equipmentnts.<br>
 # 3D WOX Printer <br>
 ![About 3D WOX Printer (Click here)](3dwoxprinter.md)<br>
 
-# Roland Mnofab SRM-20 <br>
-![About Roland Mnofab SRM-20 (Click here)](monofabSRM20.md)<br>
+# Roland Monofab SRM-20 <br>
+![About Roland Monofab SRM-20 (Click here)](monofabSRM20.md)<br>
 
 EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
 
