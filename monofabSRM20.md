@@ -20,8 +20,7 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 --Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file <br>
 --Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
 ## Images of PC board design and Print <br>
-![KiCAD Software](img/
-Kicad-schematiclayout-1.jpg)<br>
+![KiCAD Software](img/Kicad-schematiclayout-1.jpg)<br>
 ![KiCAD PCB Design](img/Add_Componets-2.jpg)<br>
 ![KiCAD PCB Design](img/Annotate-electricals-rules-check-3.jpg)<br>
 ![KiCAD PCB Design](img/Assign-PCB-footprints-to-schematic-symbols-4.jpg)<br>
