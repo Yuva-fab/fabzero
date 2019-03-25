@@ -9,6 +9,14 @@ My mentors are Mr.Francisco and Mr.Sibu.<br>
 
 Mr.Franchie has brifed about the equipmentnts.<br>
 
+## Documentation <br>
+To document the work we have done, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for dispaying at GitHub. <br>
+
+    --Open "New Window" in visual Studio Code
+    --Copy the clone Address from Github
+    --This is the command to see the clone address at Github "Control + Shift + P"
+    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
+
 ## Roland Vinyl Cutter <br>
 ![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
 
