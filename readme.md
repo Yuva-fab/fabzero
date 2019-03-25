@@ -17,11 +17,12 @@ Mr.Franchie has brifed about the equipmentnts.<br>
 # Roland Monofab SRM-20 <br>
 ![About Roland Monofab SRM-20 (Click here)](monofabSRM20.md)<br>
 
-EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.<br>
-
+EPILOG LASER <br>
+Weller heat gun and soldering rod.<br>
 FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br>
+
 On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.<br>
 Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
 Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
