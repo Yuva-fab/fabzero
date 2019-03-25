@@ -4,13 +4,13 @@ The SRM-20 portable milling machine can mill a broad range of materials, includi
 Milling Made Easy with a User-Friendly VPanel.<br>
 Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are require to editing, scaling and milling.<br>
 # Procedure for PC board print <br>
---Open the KICAD application
---File --> NEW
---Click on Schematic Layout Editor
---New Eeschema will open. then Select the components and --Voltages with Proper connections.
+--Open the KICAD application<br>
+--File --> NEW<br>
+--Click on Schematic Layout Editor<br>
+--New Eeschema will open. then Select the components and --Voltages with Proper connections.<br>
 # Following is the PC board printed at FAB LAB. <br>
 
 
-# Following are the Specifications of 3D WOX Printer<br>
+
 
 
