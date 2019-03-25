@@ -9,13 +9,13 @@ My mentors are Mr.Francisco and Mr.Sibu.<br>
 
 Mr.Franchie has brifed about the equipmentnts.<br>
 
-# Roland Vinyl Cutter <br>
+## Roland Vinyl Cutter <br>
 ![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
 
-# 3D WOX Printer <br>
+## 3D WOX Printer <br>
 ![About 3D WOX Printer (Click here)](3dwoxprinter.md)<br>
 
-# Roland Monofab SRM-20 <br>
+## Roland Monofab SRM-20 <br>
 ![About Roland Monofab SRM-20 (Click here)](monofabSRM20.md)<br>
 
 EPILOG LASER <br>
