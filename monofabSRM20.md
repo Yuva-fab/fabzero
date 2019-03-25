@@ -13,8 +13,8 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 --Draw thick copper routing between the components<br>
 --Add Graphics line Edge.cuts <br>
 --Select Plot and save in SVG format. While saving <br>
-    1,Select F.Cu and Edge.cuts in include layers <br>
-    2,Select Mirrored plot and Negative plot <br>
+    *Select F.Cu and Edge.cuts in include layers <br>
+    *Select Mirrored plot and Negative plot <br>
 --Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file <br>
 --Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
 ## Images of PC board design and Print <br>
