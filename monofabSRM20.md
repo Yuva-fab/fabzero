@@ -21,8 +21,8 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 --Add Graphics line Edge.cuts <br>
 
 --Select Plot and save in SVG format. While saving <br>
-    *Select F.Cu and Edge.cuts in include layers <br>
-    *Select Mirrored plot and Negative plot <br>
+    -  Select F.Cu and Edge.cuts in include layers <br>
+    -  Select Mirrored plot and Negative plot <br>
 
 --Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file <br>
 
