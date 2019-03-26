@@ -7,10 +7,12 @@ On 18th March 2019, Shri. Manas Panda, Director, STPI, Bhubaneswar welcomed us a
 
 My mentors are Mr.Francisco and Mr.Sibu.<br>
 
-Mr.Franchie has brifed about the equipmentnts.<br>
+Mr.Franchie has brifed about the equipments.<br>
 
 ## Documentation <br>
-To document the work we have done, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for dispaying at GitHub. <br>
+To document the work, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for displaying at GitHub. <br>
+
+Link to download VSC https://code.visualstudio.com/ <br>
 
     --Open "New Window" in visual Studio Code
     --Copy the clone Address from Github
