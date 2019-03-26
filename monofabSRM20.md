@@ -16,7 +16,16 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
     *Select F.Cu and Edge.cuts in include layers <br>
     *Select Mirrored plot and Negative plot <br>
 --Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file <br>
---Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
+--Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.<br>
+--To print the PCB board, fix the 64 mm bit in SRM20 and move the bit using V plane software to origin point of PCB where circuit is going to start printing. And then click ORIGINATE. Set the X and Y Coordinates to 0 (zero).<br>
+--Move the 64mm bit (in Z plane (up and down)) with help of yellanki, make the bit to touch the board and tight it.<br>
+--In V Plane software set the Z axis coorinate 2mm (This is 2 mm above from PCB board).
+--Then in V plane press CUT, a window will POP up. Delete the files which are displaying and add the Trace.rml file (Circuit design). Finally press OUTPUT button, then it will start milling the PCB.<br>
+--After printed PCB, clean the bed with soft brush and replace the 64mm bit with 32mm bit.<br>
+--Don't change X and Y ORIGINATE coordinates in V plane. Move the bit to starting point of PCB where CUT is going to start. Then help of yellanki make the bit to touch the board and tight it.<br>
+--In V Plane software set the Z axis coordinate 2mm (This is 2 mm above from PCB board) and then click ORIGINATE. Set X and Y coordinates to 0 (zero).
+--Then in V plane press CUT, a window will POP up. Delete the files which are displaying and add the CUT.rml file (Outer line of circuit). Finally press OUTPUT button, then it will start milling the outline.<br>
+After finish the CUT, clean the bed with soft brush. With help of screw driver gently remove the PCB. PCB is ready.<br>
 ## Images of PC board design and Print <br>
 ![KiCAD Software](img/Kicad-schematiclayout-1.jpg)<br>
 
