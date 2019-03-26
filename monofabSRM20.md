@@ -23,7 +23,7 @@ Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are requ
 --Then in V plane press CUT, a window will POP up. Delete the files which are displaying and add the Trace.rml file (Circuit design). Finally press OUTPUT button, then it will start milling the PCB.<br>
 --After printed PCB, clean the bed with soft brush and replace the 64mm bit with 32mm bit.<br>
 --Don't change X and Y ORIGINATE coordinates in V plane. Move the bit to starting point of PCB where CUT is going to start. Then help of yellanki make the bit to touch the board and tight it.<br>
---In V Plane software set the Z axis coordinate 2mm (This is 2 mm above from PCB board) and then click ORIGINATE. Set X and Y coordinates to 0 (zero).
+--In V Plane software set the Z axis coordinate 2mm (This is 2 mm above from PCB board) and then click ORIGINATE. Set X and Y coordinates to 0 (zero).<br>
 --Then in V plane press CUT, a window will POP up. Delete the files which are displaying and add the CUT.rml file (Outer line of circuit). Finally press OUTPUT button, then it will start milling the outline.<br>
 After finish the CUT, clean the bed with soft brush. With help of screw driver gently remove the PCB. PCB is ready.<br>
 ## Images of PC board design and Print <br>
