@@ -48,6 +48,9 @@ Real-time scanning of objects into 3D <br>
 
 ## Following images are scanned  and printed at FAB LAB (3D Image scanned). <br>
 
+## Click on folowing URL for detailed information  on 3D Sense <br>
+https://www.3dsystems.com/shop/support/sense/videos
+
 # Following are the Specifications of 3D WOX Printer<br>
 ![](img/3DWOX1_Sindoh_Specs.jpg)<br>
 ## Click on below URL for complete details <br>

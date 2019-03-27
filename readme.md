@@ -33,6 +33,9 @@ Link to download VSC https://code.visualstudio.com/ <br>
 ## Shopbot <br>
 ![About the shopbot (Click here)](shopbot.md)
 
+## Formlabs SLA 3D printer <br>
+![About Formlabs SLA 3D Printer (Click here)](formlabs-sla3d.md)
+
 ## Following listed equipment yet to learn...
 
 EPILOG LASER <br>

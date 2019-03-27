@@ -17,3 +17,6 @@ Precautions while using the machine <br>
 --Should where Glasses to avoid dust going to eyes.<br>
 --Should where Head set to avoid noise coming from the machine. <br>
 --Should where Mask over the nose and mouth to avoid dust particles going to body. <br>
+
+### Go through the below URL fo detailed information.<br>
+https://support.shopbottools.com/products/alpha
