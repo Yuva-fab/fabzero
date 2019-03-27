@@ -10,7 +10,7 @@ Object printing time is depend on size of the object going to print, if size is 
     --After completion of print, properly we have to remove the bed and place it on a table for 2 min. to reduce the heat.
     --With the help of hand knife remove the object from the bed.
 
-# Following is the object printed at FAB LAB (3D Image Download from the internet). <br>
+# Following is the object printed at FAB LAB (3D Image Download from the internet which is in STL format). <br>
 ![](img/3D_Image_Downladed_01.jpg)<br>
 
 ![](img/3D_Image_Downladed_02.jpg)<br>
