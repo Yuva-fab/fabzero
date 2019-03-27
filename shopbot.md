@@ -1,4 +1,4 @@
-# Sindoh 3D WOX Printer <br>
+# Shopbot CNC Cutter <br>
 ![Shopbot Image](shopbot-img/shopbot-img.jpg) <br>
 
 Shopbot  Computer Numeric Control (CNC) tool is used in prototyping and full production for cutting, carving, machining and milling in wood, MDF, plastics, foams, and aluminum. The one we have is full size cutter i.e. means it can cut 4 feet X 8 feet sized wood boards. <br>
