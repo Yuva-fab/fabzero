@@ -81,7 +81,12 @@ After finish the CUT, clean the bed with soft brush. With help of screw driver g
 
 ![Monofab PCB print](img/PCB-17.jpg)<br>
 
+#Following to be executed.....
 
+## Following are images of PCB soldering at FAB LAB. <br>
 
+## Following is the procedure for programming the PCB. <br> 
 
+## Following is the sample PCB programming. <br>
 
+## Following images are testing of programmed PCB. <br>
