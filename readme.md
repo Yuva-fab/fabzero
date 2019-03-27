@@ -30,13 +30,27 @@ Link to download VSC https://code.visualstudio.com/ <br>
 ## Roland Monofab SRM-20 <br>
 ![About Roland Monofab SRM-20 (Click here)](monofabSRM20.md)<br>
 
+## Following listed equipment yet to learn...
+
 EPILOG LASER <br>
 Weller heat gun and soldering rod.<br>
 FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br>
 
-We have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.<br>
+## Softwares Installed.<br>
+
+Visual Studio Codec (For Documentation)<br>
+Git Windows.<br>
+Inkscape (2D Drawing)<br>
+Cura (3D drawing)<br>
+Freecad 5 (3D drawing)<br>
+Sindoh 3D WOX printer <br>
+KiCAD <br>
+
+## URLs to download Softwares <br>
 Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
 Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
 Link of Git Windows to download https://git-scm.com/download/win <br>
+Link of KiCAD to download https://www.freecadweb.org/downloads.php <br>
+Link of Visual Studio Codec to download https://code.visualstudio.com/ <br>
