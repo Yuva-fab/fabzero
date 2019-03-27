@@ -25,7 +25,28 @@ Object printing time is depend on size of the object going to print, if size is 
 
 # Following is the object printed at FAB LAB (3D Image created in the Freecad Software). <br>
 
+# **Sense Software** <br>
 
+Sense is a 3D scanner software. The one which is scanned it can be printed in 3d WOX printer.
+
+## Sense software features <br>
+
+Real-time scanning of objects into 3D <br>
+-	Set the scan volume based on what you are scanning <br>
+-	Generate polygon meshes from the scan data <br>
+-	Crop unwanted data <br>
+-	Erase unwanted data <br>
+-	Solidify the model to create a watertight, printable mesh <br>
+-	Trim unwanted data <br>
+-	Adjust colors <br>
+-	Retouch areas of the model <br>
+-	Share to Sketchfab and Facebook <br>
+-	Save out data to STL, WRL, OBJ, and PLY formats for downstream use <br>
+
+## Image of 3D scanner <br>
+![Image of 3D Scanner](sense-img/3D-scanner.jpg)<br>
+
+## Following images are scanned  and printed at FAB LAB (3D Image scanned). <br>
 
 # Following are the Specifications of 3D WOX Printer<br>
 ![](img/3DWOX1_Sindoh_Specs.jpg)<br>

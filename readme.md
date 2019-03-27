@@ -30,12 +30,14 @@ Link to download VSC https://code.visualstudio.com/ <br>
 ## Roland Monofab SRM-20 <br>
 ![About Roland Monofab SRM-20 (Click here)](monofabSRM20.md)<br>
 
+## Shopbot <br>
+![About the shopbot (Click here)](shopbot.md)
+
 ## Following listed equipment yet to learn...
 
 EPILOG LASER <br>
 Weller heat gun and soldering rod.<br>
 FORMLABS 3D printing device.<br>
-Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br>
 
 ## Softwares Installed.<br>
