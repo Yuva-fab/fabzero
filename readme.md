@@ -37,7 +37,7 @@ Link to download VSC https://code.visualstudio.com/ <br>
 ## Following listed equipment yet to learn...
 
 EPILOG LASER <br>
-Weller heat gun and soldering rod.<br>
+PUREX.<br>
 WEN and DeWALT equipment.<br>
 
 ## Softwares Installed <br>
