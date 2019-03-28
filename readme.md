@@ -40,19 +40,33 @@ EPILOG LASER <br>
 Weller heat gun and soldering rod.<br>
 WEN and DeWALT equipment.<br>
 
-## Softwares Installed.<br>
+## Softwares Installed <br>
 
 Visual Studio Codec (For Documentation)<br>
-Git Windows.<br>
-Inkscape (2D Drawing)<br>
-Cura (3D drawing)<br>
-Freecad 5 (3D drawing)<br>
-Sindoh 3D WOX printer  (Printer drivers)<br>
-KiCAD (PCB Design)<br>
+    --Link of Visual Studio Codec to download https://code.visualstudio.com/ <br>
 
-## URLs to download Softwares <br>
-Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
-Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
-Link of Git Windows to download https://git-scm.com/download/win <br>
-Link of KiCAD to download https://www.freecadweb.org/downloads.php <br>
-Link of Visual Studio Codec to download https://code.visualstudio.com/ <br>
+Git Windows.<br>
+    --Link of Git Windows to download https://git-scm.com/download/win <br>
+
+Inkscape (2D Drawing)<br>
+    --Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
+
+Cura (3D drawing)<br>
+    --Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
+
+Freecad 5 (3D drawing)<br>
+    --Link of KiCAD to download https://www.freecadweb.org/downloads.php <br>
+
+KiCAD (PCB Design)<br>
+    --Link of KiCAD to download http://kicad-pcb.org/download/windows/
+
+Sindoh 3D WOX printer  (Printer drivers)<br>
+
+
+
+
+
+
+
+
+
