@@ -3,7 +3,7 @@ This is Mr.Yuvaraju. I am from STPI-Hyderabad. Working as Tech. Officer.<br>
 
 I got oprtunity getting training on FAB LAB Pre-Academy Programme at STPI-Bhubaneswar.<br>
 
-On 18th March 2019, Shri. Manas Panda, Director, STPI, Bhubaneswar welcomed us and briefed about how this 1st STPIs FAB LAB has established. Then Pre-Academy training program is lanuched by Shri.Omkar Rai, DG, STPI.<br>
+On 18th March 2019, Shri. Manas Panda, Director, STPI, Bhubaneswar welcomed us and briefed about how this 1st STPIs FAB LAB has established. Then Pre-Academy training program is launched by Shri.Omkar Rai, DG, STPI.<br>
 
 My mentors are Mr.Francisco and Mr.Sibu.<br>
 
@@ -55,7 +55,7 @@ Cura (3D drawing)<br>
     --Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software <br>
 
 Freecad 5 (3D drawing)<br>
-    --Link of KiCAD to download https://www.freecadweb.org/downloads.php <br>
+    --Link of Freecad to download https://www.freecadweb.org/downloads.php <br>
 
 KiCAD (PCB Design)<br>
     --Link of KiCAD to download http://kicad-pcb.org/download/windows/
