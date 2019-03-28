@@ -19,8 +19,8 @@ Link to download VSC https://code.visualstudio.com/ <br>
 
 # Following are the hands on experience on equipment at FAB LAB <br>
 
-## Roland Vinyl Cutter <br>
-![About Roland vinyl Cutter (Click Here)](vinylcutter.md)<br>
+## Roland Vinyl Plotter <br>
+![About Roland vinyl Plotter (Click Here)](vinylcutter.md)<br>
 
 ## 3D WOX Printer <br>
 ![About 3D WOX Printer (Click here)](3dwoxprinter.md)<br>
