@@ -81,6 +81,8 @@ After finish the CUT, clean the bed with soft brush. With help of screw driver g
 
 ![Monofab PCB print](img/PCB-17.jpg)<br>
 
+![Monofab PCB print](img/Soldered-PCB-18.jpg)<br>
+
 #Following to be executed.....
 
 ## Following are images of PCB soldering at FAB LAB. <br>
