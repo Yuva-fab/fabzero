@@ -81,7 +81,9 @@ After finish the CUT, clean the bed with soft brush. With help of screw driver g
 
 ![Monofab PCB print](img/PCB-17.jpg)<br>
 
-![Monofab PCB print](img/Soldered-PCB-18.jpg)<br>
+![Monofab PCB print](img/tools-for-pcb-design-18.jpg)<br>
+
+![Monofab PCB print](img/Soldered-PCB-19.jpg)<br>
 
 #Following to be executed.....
 
