@@ -7,8 +7,6 @@ On 18th March 2019, Shri. Manas Panda, Director, STPI, Bhubaneswar welcomed us a
 
 My mentors are Mr.Francisco and Mr.Sibu.<br>
 
-Mr.Franchie has brifed about the equipments.<br>
-
 ## Documentation <br>
 To document the work, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for displaying at GitHub. <br>
 
@@ -40,7 +38,6 @@ Link to download VSC https://code.visualstudio.com/ <br>
 
 EPILOG LASER <br>
 Weller heat gun and soldering rod.<br>
-FORMLABS 3D printing device.<br>
 WEN and DeWALT equipment.<br>
 
 ## Softwares Installed.<br>
@@ -50,8 +47,8 @@ Git Windows.<br>
 Inkscape (2D Drawing)<br>
 Cura (3D drawing)<br>
 Freecad 5 (3D drawing)<br>
-Sindoh 3D WOX printer <br>
-KiCAD <br>
+Sindoh 3D WOX printer  (Printer drivers)<br>
+KiCAD (PCB Design)<br>
 
 ## URLs to download Softwares <br>
 Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/ <br>
