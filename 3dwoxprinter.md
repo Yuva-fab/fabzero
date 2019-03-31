@@ -23,7 +23,7 @@ Object printing time is depend on size of the object going to print, if size is 
 
 ![](img/3D_Print_Output_6.jpg)<br>
 
-# Following is the object printed at FAB LAB (3D Image created in the Freecad Software). <br>
+# Following is the object printed at FAB LAB (3D Image created in the Freecad Software)(Yet to be printed) <br>
 
 # **Sense Software** <br>
 
@@ -46,13 +46,19 @@ Real-time scanning of objects into 3D <br>
 ## Image of 3D scanner <br>
 ![Image of 3D Scanner](sense-img/3D-scanner.jpg)<br>
 
-## Following images are scanned  and printed at FAB LAB (3D Image scanned). <br>
+## Following images are scanned and printed at FAB LAB (3D Image scanned). <br>
 
-## Click on folowing URL for detailed information  on 3D Sense <br>
+### Sample image of 3D scanning using Sense. <br>
+![Image of 3D Scanner](sense-img/3d-2.jpg)<br>
+
+### Image of 3D print. <br>
+![Image of 3D Scanner](sense-img/3d-3.jpg)<br>
+
+## Click on following URL for detailed information  on 3D Sense <br>
 https://www.3dsystems.com/shop/support/sense/videos
 
 # Following are the Specifications of 3D WOX Printer<br>
 ![](img/3DWOX1_Sindoh_Specs.jpg)<br>
 ## Click on below URL for complete details <br>
-https://3dprinter.sindoh.com/product/3dwox1<br>
+https://3dprinter.sindoh.com/en/product/dp200 <br>
 
