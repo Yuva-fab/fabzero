@@ -45,7 +45,7 @@ Link to download VSC https://code.visualstudio.com/ <br>
     --$ git config --global user.name (enter username)
     --admin@STPH13LP01 MINGW64 ~
     --$ git config --global user.email (enter valid e-mail)
-    --Window will pop-up. Enter user name and password. So it will be cloned. The things will update in VSC will reflect after PUSH at Github website.
+    --Window will pop-up. Enter user name and password. So it will be cloned. The documented things will reflect at Github website after PUSH at VSC.
 
  
 
