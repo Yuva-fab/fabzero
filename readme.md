@@ -7,16 +7,6 @@ On 18th March 2019, Shri. Manas Panda, Director, STPI, Bhubaneswar welcomed us a
 
 My mentors are Mr.Francisco and Mr.Sibu.<br>
 
-## Documentation <br>
-To document the work, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for displaying at GitHub. <br>
-
-Link to download VSC https://code.visualstudio.com/ <br>
-
-    --Open "New Window" in visual Studio Code
-    --Copy the clone Address from Github
-    --This is the command to see the clone address at Github "Control + Shift + P"
-    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
-
 # Following are the hands on experience on equipment at FAB LAB <br>
 
 ## Roland Vinyl Plotter <br>
@@ -39,6 +29,25 @@ Link to download VSC https://code.visualstudio.com/ <br>
 EPILOG LASER <br>
 PUREX.<br>
 WEN and DeWALT equipment.<br>
+
+## Documentation Tips <br>
+
+To document the work, installed Visual Studio Codec(VSC). Following is the procedure to clone at VSC for displaying at GitHub. <br>
+
+Link to download VSC https://code.visualstudio.com/ <br>
+
+    --Open "New Window" in visual Studio Code
+    --Copy the clone Address from Github
+    --This is the command to see the clone address at Github "Control + Shift + P"
+    --Clone address will pop up.Copy and Paste in Visual Studio Code at "Git: Clone"
+    --install Windows GIT. Then automatically GIT Bash also will be installed and open GIT Bash. Enter the below commands in GIT bash.
+    --admin@STPH13LP01 MINGW64 ~
+    --$ git config --global user.name (enter username)
+    --admin@STPH13LP01 MINGW64 ~
+    --$ git config --global user.email (enter valid e-mail)
+    --Window will pop-up. Enter user name and password. So it will be cloned. The things will update in VSC will reflect after PUSH.
+
+ 
 
 ## Softwares Installed <br>
 
