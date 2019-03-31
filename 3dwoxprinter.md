@@ -8,7 +8,7 @@ Object printing time is depend on size of the object going to print, if size is 
     --Printer will display the object what is going to print on the screen.
     --Printer nozzle will be heated up to 200 degree C. Then printing will start.
     --After completion of print, properly we have to remove the bed and place it on a table for 2 min. to reduce the heat.
-    --With the help of hand knife remove the object from the bed.
+    --With the help of tool remove the object from the bed.
 
 # Following is the object printed at FAB LAB (3D Image Download from the internet which is in STL format). <br>
 ![](img/3D_Image_Downladed_01.jpg)<br>
