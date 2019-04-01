@@ -44,7 +44,7 @@ Real-time scanning of objects into 3D <br>
 -	Save out data to STL, WRL, OBJ, and PLY formats for downstream use <br>
 
 ## Image of 3D scanner <br>
-![Image of 3D Scanner](sense-img/3D-scanner.jpg)<br>
+![Image of 3D Scanner](sense-img/3d-scanner.jpg)<br>
 
 ## Following images are scanned and printed at FAB LAB (3D Image scanned). <br>
 
