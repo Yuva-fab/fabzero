@@ -1,6 +1,6 @@
 # Sindoh 3D WOX Printer <br>
 ![Sindoh 3D WOX Printer Image](img/Sindoh_3DWOX_Printer.jpg)<br>
-3D printer which we have is a 0.4 mm dia. So Scale the object as per the requirement. If we scale below 0.4 mm dia the object don't print exactly. <br>
+3DWOX is a high quality 3D printer based on user friendly functions. Easy to use TOUCH UI, intergrated with an internal camera, automatic filament installation etc. The one which we have is 3D WOX DP-200 model. It has 0.4 mm dia nozzle. So Scale the object as per the requirement. If we scale below 0.4 mm dia the object don't print exactly. <br>
 Object printing time is depend on size of the object going to print, if size is big it will print hours together.<br>
 # Procedure for 3D print <br>
     --Open the 3D_WOX printer software and load the object which was designed in a software OR downloaded from the net.
