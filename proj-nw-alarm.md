@@ -13,7 +13,7 @@ If reply is any one of the following listed, the PCB will give audio alarm.<br>
 
 This will be useful for Network Administrators for troubleshooting network problems quickly.
 
-## To design the PCB following list of Equipment, Components and Softwares used.<br>
+## To design the PCB following list of Equipment, Components, Softwares and Tools used.<br>
 
 ### Name of the equipment.<br>
 
@@ -35,3 +35,10 @@ This will be useful for Network Administrators for troubleshooting network probl
     - Inkscape  - To convert the SVG file to PNG file.
     - GIMP      - To make the holes in PCB.
     - http://fabmodules.org/ - To convert the PNG file to RML                             file.
+
+### Name of the tools.
+
+    Soldering Iron.       
+    - To used for soldering the components on the PCB.
+
+    
