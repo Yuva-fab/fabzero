@@ -131,7 +131,6 @@ After finish the CUT, clean the bed with soft brush. With help of screw driver g
 
 ![Monofab PCB print](proj-img/Soldered-PCB-19.jpg)<br>
 
-
 ## Following is the procedure for programming the PCB. <br> 
 
 ## Following is the sample PCB programming. <br>
