@@ -4,16 +4,16 @@ Abstract - PING is command used to verify that a particular network device/serve
 
 If reply is any one of the following listed, the PCB will give audio alarm.<br>
 
-    - Request timed out.<br>
-    - Net unreachable.<br>
-    - Host unreachable.<br>
-    - Protocol unreachable.<br>
-    - Port unreachable.<br>
-    - Source route failed.<br>
+    - Request timed out.
+    - Net unreachable.
+    - Host unreachable.
+    - Protocol unreachable.
+    - Port unreachable.
+    - Source route failed.
 
 This will be useful for Network Administrators for troubleshooting network problems quickly.
 
-## To design the PCB list of Equipment, Components and Softwares used.<br>
+## To design the PCB following list of Equipment, Components and Softwares used.<br>
 
 ### Name of the equipment.<br>
 
