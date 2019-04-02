@@ -1,8 +1,12 @@
 # Roland Monofab SRM20 Milling Machine <br>
 ![Roland Monofab SRM20](img/monofab_SRM20.jpg)<br>
+
 The SRM-20 portable milling machine can mill a broad range of materials, including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. <br>
+
 Milling Made Easy with a User-Friendly VPanel.<br>
+
 Following Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are require to editing, scaling and milling.<br>
+
 # Procedure for PC board design and print <br>
 --Open the KiCAD application. Go to File --> NEW---Click on Schematic Layout Editor<br>
 
