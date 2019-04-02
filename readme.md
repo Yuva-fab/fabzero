@@ -71,6 +71,9 @@ KiCAD (PCB Design)<br>
 
 Sindoh 3D WOX printer  (Printer drivers)<br>
 
+GIMP (To mark the holes in PCB) <br>
+    --Link of GIMP to download https://www.gimp.org/downloads/
+
 
 
 
