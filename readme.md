@@ -47,7 +47,8 @@ Link to download VSC https://code.visualstudio.com/ <br>
     --$ git config --global user.email (enter valid e-mail)
     --Window will pop-up. Enter user name and password. So it will be cloned. The documented things will reflect at Github website after PUSH at VSC.
 
- 
+# Final Project 
+![Project Name - Network Alarm (Click here)](proj-nw-alarm.md) 
 
 ## Softwares Installed <br>
 
