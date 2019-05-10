@@ -50,7 +50,7 @@ Link to download VSC https://code.visualstudio.com/ <br>
 # Final Project 
 ![Project Name - Network Alarm (Click here)](proj-nw-alarm.md) 
 
-## Softwares Installed <br>
+# Softwares Installed <br>
 
 Visual Studio Codec (For Documentation)<br>
     --Link of Visual Studio Codec to download https://code.visualstudio.com/ <br>
