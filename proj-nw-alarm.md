@@ -1,4 +1,4 @@
-# **Project Name - Network Alarm** (__Under Execution__)
+# **Project Name - Network Alarm** (__Programming yet to be done__)
 
 Abstract - PING is command used to verify that a particular network device/server is alive or not. Ping works by sending an Internet Control Message Protocol (ICMP) Echo Request to a specified interface on the network and waiting for a reply.<br> 
 
