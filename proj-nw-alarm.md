@@ -149,3 +149,5 @@ After finish the CUT, clean the bed with soft brush. With help of screw driver g
 ![KiCAD PCB Design](proj-img/sample-program-24.jpg)<br>
 
 ## Following images are testing of programmed PCB. <br>
+
+![KiCAD PCB Design](proj-img/25.jpg)<br>
