@@ -27,7 +27,7 @@ This will be useful for Network Administrators for troubleshooting network probl
     - 10 K ohm Resistors                   - 1 No.
     - 500 K ohm Resistors                  - 1 No.
     - 100 Micro farad Capacitor            - 1 No.
-    - Switch/Push button                   - 1 No.
+    - 0 ohm resistor                       - 1 No.
 
 ### Name of the Softwares Used.
 
@@ -93,46 +93,58 @@ This will be useful for Network Administrators for troubleshooting network probl
 After finish the CUT, clean the bed with soft brush. With help of screw driver gently remove the PCB. PCB is ready.<br>
 
 ## Images of PC board design and Print <br>
-![KiCAD Software](proj-img/Kicad-schematiclayout-1.jpg)<br>
+![KiCAD Software](proj-img/create-project-1.jpg)<br>
 
-![KiCAD PCB Design](proj-img/Add_Componets-2.jpg)<br>
+![KiCAD PCB Design](proj-img/nw-alarm-schematic-2.jpg)<br>
 
-![KiCAD PCB Design](proj-img/Annotate-electricals-rules-check-3.jpg)<br>
+![KiCAD PCB Design](proj-img/nw-alarm-annotate-schematic-symbols-3.jpg)<br>
 
-![KiCAD PCB Design](proj-img/Assign-PCB-footprints-to-schematic-symbols-4.jpg)<br>
+![KiCAD PCB Design](proj-img/perform-electrical-rules-check-4.jpg)<br>
 
-![KiCAD PCB Design](proj-img/PCBlayout-with-normal-connections-6.jpg)<br>
+![KiCAD PCB Design](proj-img/assign-footprints-5.jpg)<br>
 
-![KiCAD PCB Design](proj-img/PCBlayout-with-copper-routing-7.jpg)<br>
+![KiCAD PCB Design](proj-img/generate-netlist-6.jpg)<br>
 
-![KiCAD PCB Design](proj-img/PCBlayout-edgeCuts-8.jpg)<br>
+![KiCAD PCB Design](proj-img/update-pcb-schematic-or-press-f8-7.jpg)<br>
 
-![KiCAD PCB Design](proj-img/PCBplot-in-svg-format-9.jpg)<br>
+![KiCAD PCB Design](proj-img/update-pcb-from-schematic-8.jpg)<br>
 
-![KiCAD PCB Design](proj-img/inkscape_PCBplot-svg2png_trace-10.jpg)<br>
+![KiCAD PCB Design](proj-img/update-pcb-from-schematic-9.jpg)<br>
 
-![KiCAD PCB Design](proj-img/inkscape_PCBplot-svg2png_cut-11.jpg)<br>
+![KiCAD PCB Design](proj-img/pcb-after-routing-n-edge-cuts-10.jpg)<br>
 
-![KiCAD PCB Design](proj-img/fabmodules-png2rml_trace-12.jpg)<br>
+![KiCAD PCB Design](proj-img/plot-11.jpg)<br>
 
-![KiCAD PCB Design](proj-img/fabmodules-png2rml_cut-13.jpg)<br>
+![KiCAD PCB Design](proj-img/inkscape-trace-resize-n-svg2png-12.jpg)<br>
+
+![KiCAD PCB Design](proj-img/use-gimp-for-trace-13.jpg)<br>
+
+![KiCAD PCB Design](proj-img/background-color-change2other-color-14.jpg)<br>
+
+![KiCAD PCB Design](proj-img/edge-cut-15.jpg)<br>
+
+![KiCAD PCB Design](proj-img/trace-png2rml-16.jpg)<br>
+
+![KiCAD PCB Design](proj-img/cut-png2rml-17.jpg)<br>
+
+![KiCAD PCB Design](proj-img/vpanel-settings-18.jpg)<br>
+
+![KiCAD PCB Design](proj-img/pcb-19.jpg)<br>
 
 ## Following are images of PC board printed at FAB LAB. <br>
 
-![Monofab PCB print](proj-img/Vplane-settings-14.jpg)<br>
+![KiCAD PCB Design](proj-img/pcb-20.jpg)<br>
 
-![Monofab PCB print](proj-img/Circuit-print-on-board-15.jpg)<br>
+![KiCAD PCB Design](proj-img/pcb-21.jpg)<br>
 
-![Monofab PCB print](proj-img/PCB-016.jpg)<br>
+## Following are images of PC board Soldering at FAB LAB. <br>
 
-![Monofab PCB print](proj-img/PCB-17.jpg)<br>
+![KiCAD PCB Design](proj-img/pcb-soldering-components-22.jpg)<br>
 
-![Monofab PCB print](proj-img/tools-for-pcb-design-18.jpg)<br>
+![KiCAD PCB Design](proj-img/pcb-after-soldering-23.jpg)<br>
 
-![Monofab PCB print](proj-img/Soldered-PCB-19.jpg)<br>
+## Following is the Sample programming the PCB. <br>
 
-## Following is the procedure for programming the PCB. <br> 
-
-## Following is the sample PCB programming. <br>
+![KiCAD PCB Design](proj-img/sample-program-24.jpg)<br>
 
 ## Following images are testing of programmed PCB. <br>
